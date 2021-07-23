@@ -1,6 +1,8 @@
 hit `q` to get out of any command
 
 hit `man mv`, to know what mv can do and how
+hit 'open -a application' to open an app
+hit 'pkill -x application' to close an app
 
 
 
